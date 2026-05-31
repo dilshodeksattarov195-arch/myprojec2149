@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdync",
+        "uuid": 14974232,
+        "checksum": "4g8kx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
